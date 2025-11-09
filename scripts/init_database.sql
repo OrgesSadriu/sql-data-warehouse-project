@@ -1,3 +1,9 @@
+/*
+This script create a new database 'DataWarehouse'.
+WARNING:
+	Running the script will drop the entire 'DataWarehouse' database if it exists.
+	All data will be permanently deleted.
+*/
 USE master;
 go
 
